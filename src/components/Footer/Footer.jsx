@@ -39,7 +39,7 @@ export const Footer = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/prakashsakari/"
+            href="https://www.linkedin.com/in/shreya-gupta-a01a36221/"
             class="link"
             target="_blank"
             rel="noreferrer"

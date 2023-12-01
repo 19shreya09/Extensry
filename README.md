@@ -19,22 +19,6 @@ Task Page
 - HTML/CSS
 - ReactJs
 
-## Author
-
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
-
-
-## Live Link
-
-https://extensry.netlify.app/
-
-## Add Extension to Firefox
-
-https://addons.mozilla.org/en-US/firefox/addon/prakash-extensry/
-
 
 ## Run Locally
 
@@ -62,14 +46,6 @@ Start the server
 ```bash
   npm start
 ```
-
-## Demo
-
-https://user-images.githubusercontent.com/80476561/169452669-ff9a32dc-d951-45bf-b7b9-dffd238666fe.mp4
-
-## Screenshot
-![img1](https://user-images.githubusercontent.com/80476561/169453820-1cf458a1-87ca-4053-9935-86dbbb2a3bf4.png)
-![img2](https://user-images.githubusercontent.com/80476561/169453824-3f6ee488-490a-4867-9d72-80a504f6a50a.png)
 
 
 
